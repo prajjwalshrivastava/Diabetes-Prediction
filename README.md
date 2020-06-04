@@ -1,1 +1,1 @@
-# Diabetes-Prediction
+# Diabetes-Prediction Using KNN Algorithm
